@@ -1,20 +1,16 @@
  def speak_to_grandma(phrase)
-   if phrase == phase.upcase
-     return "I LOVE YOU TOO PUMPKIN!"
+   if phrase == "I LOVE YOU GRANDMA!"
+     return "I LOVE YOU PUMPKIN!"
    end
    
-    elsif phrase != phrase.upcase 
+   if phrase == phase.upcase
+     return "NO, NOT SINCE 1938!"
+   
+    else 
       "HUH?! SPEAK UP, SONNY!"
     end
     
-    else
-      phrase == phrase.upcase
-       "NO, NOT SINCE 1938!"
-    end
-       
-     #else
-       #"NO, NOT SINCE 1938!"
-
+    
 end
    
 
