@@ -7,7 +7,7 @@
       "HUH?! SPEAK UP, SONNY!"
     end
     
-    elsif phrase == phrase.upcase
+    if phrase == phrase.upcase
        "NO, NOT SINCE 1938!"
     end
        
