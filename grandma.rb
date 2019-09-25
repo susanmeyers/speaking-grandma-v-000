@@ -11,8 +11,8 @@
        "NO, NOT SINCE 1938!"
     end
        
-     else
-       "NO, NOT SINCE 1938!"
+     #else
+       #"NO, NOT SINCE 1938!"
 
 end
    
