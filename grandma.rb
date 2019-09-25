@@ -3,7 +3,7 @@
      return "I LOVE YOU TOO PUMPKIN!"
    end
    
-    if phrase == phrase.upcase 
+    if phrase != phrase.upcase 
       "HUH?! SPEAK UP, SONNY!"
     end
 
