@@ -8,7 +8,7 @@
     end
     
     elsif phrase == phrase.upcase
-       NO, NOT SINCE 1938!
+       "NO, NOT SINCE 1938!"
     end
        
      else
