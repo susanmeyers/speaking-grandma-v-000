@@ -1,5 +1,5 @@
  def speak_to_grandma(phrase)
-   if phrase == "I LOVE YOU GRANDMA!"
+   if phrase == phase.upcase
      return "I LOVE YOU TOO PUMPKIN!"
    end
    
