@@ -11,7 +11,7 @@
        NO, NOT SINCE 1938!
        
      else
-       NO, NOT SINCE 1938!
+       phrase.upcase
 
 end
    
